@@ -19,6 +19,8 @@ git branch nuevaRama
 git switch ramaAMoverse
 git stash -> guarda los cambios de mi repo local de manera temporal antes de hacer un commit
 git stash list -> lista los cambios que no he guardado en un commit
+git stash pop -> regresa los cambios sin guardar a mi fichero para seguir editando y posteriormente commitear
+git stash drop -> eliminar lo que hay en stash
 */
 
 console.log('Notasss');
