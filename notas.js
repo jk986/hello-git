@@ -14,7 +14,9 @@ git reset --hard <id> -> me regresa atras o adelante el head al commit especific
 git reflog -> retorna registros de todo el proyecto 
 git tag nombredelTag -> etiquetar commits importantes por ej versiones; git tag clase_1
 git tag -> tambien lista todos los tags creados
-
+git revert -> eliminar commit completo (avanzado)
+git branch nuevaRama
+git switch ramaAMoverse
 */
 
 console.log('Notasss');
