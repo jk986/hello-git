@@ -17,6 +17,8 @@ git tag -> tambien lista todos los tags creados
 git revert -> eliminar commit completo (avanzado)
 git branch nuevaRama
 git switch ramaAMoverse
+git stash -> guarda los cambios de mi repo local de manera temporal antes de hacer un commit
+git stash list -> lista los cambios que no he guardado en un commit
 */
 
 console.log('Notasss');
